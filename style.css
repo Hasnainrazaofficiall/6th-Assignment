@@ -1,0 +1,89 @@
+.main{
+    width: 70%;
+    height: 523px;
+    border: 500px;
+    background-color: black;
+}
+.white{
+    width: 100px;
+    height: 100px;
+    background: rgb(61, 35, 2);
+}
+.black{
+    width: 100px;
+    height: 100px;
+    background: rgb(236, 198, 115);
+}
+body{
+    background-size:100%;
+    background-color: rgb(31, 119, 190);
+}
+.color1{
+    background-color: rgb(0, 233, 202);
+    color: rgb(3, 0, 0);
+}
+.color2{
+    background-color: rgb(34, 241, 7);
+    color: rgb(0, 0, 0);
+}
+.color3{
+    background-color: rgb(241, 176, 12);
+    color: black;
+
+}
+.color4{
+    background-color: rgb(0, 38, 255);
+    color: black;
+
+}
+.color5{
+    background-color: rgb(97, 204, 35);
+    color: black;
+
+}
+.color6{
+    background-color: rgb(154, 70, 209);
+    color: black;
+
+}
+.color7{
+    background-color: rgb(255, 94, 1);
+    color: black;
+
+}
+.color8{
+    background-color: orangered;
+    color: black;
+
+}
+.color9{
+    background-color: palevioletred;
+    color: rgb(8, 0, 0);
+
+}
+.color10{
+    background-color: rgb(223, 29, 29);
+    color: rgb(0, 0, 0);
+
+}
+.color11{
+    background-color: greenyellow;
+    color: black;
+
+}
+.color12{
+    background-color: rgb(233, 172, 19);
+    color: white;
+}
+.color13{
+    background-color: rgb(138, 223, 27);
+    color: white;
+}
+.color14{
+    background-color: rgb(92, 211, 175);
+    color: rgb(0, 0, 5);
+}
+.color15{
+    background-color: greenyellow;
+    color: rgb(0, 0, 0);
+}
